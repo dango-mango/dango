@@ -1,1 +1,1 @@
-# dango
+# dango-the frontend repo
