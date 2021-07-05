@@ -1,0 +1,11 @@
+{
+  "description": "json is a computer friendly way of representing data! example as follows",
+  "name": "dango",
+  "age": 7,
+  "characteristics": {
+    "color": ["white","grey"],
+    "gender": "male"
+  }
+}
+
+

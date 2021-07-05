@@ -1,0 +1,8 @@
+description: yml (YEAH MOL) is a more human friendly way of representing data
+name: dango
+age: 7
+characteristics:
+  color:
+    - white
+    - grey
+  gender: male
